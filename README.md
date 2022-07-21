@@ -4,8 +4,12 @@
 
 To install the library and examples the following libs are required:
 
-- CGAL
+- CGAL (5.0.2 last tested)
 
 ## Installation
 
 On Ubuntu (Last tested was 20.04)
+
+Install CGAL library 
+
+
